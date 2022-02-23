@@ -1,0 +1,17 @@
+com\feign\propert\openFeignPropert.class
+com\feign\annotation\HttpRequest.class
+com\feign\annotation\EnabledHttpRequest.class
+com\feign\http\Params.class
+com\feign\Processor\HttpRequestRegister$1.class
+com\feign\Processor\HttpRequestProxy.class
+com\feign\config\openFeignConfigure.class
+com\feign\interceptor\requestInterceptor.class
+com\feign\Processor\HttpRequestFactoryBean.class
+com\feign\annotation\HttpRequestClient.class
+META-INF\spring-configuration-metadata.json
+com\feign\Processor\HttpRequestRegister$2.class
+com\feign\http\httpUtils.class
+com\feign\Processor\HttpRequestRegister$AllTypeFilter.class
+com\feign\http\OKHttpUtil.class
+com\feign\Processor\HttpRequestProxy$1.class
+com\feign\Processor\HttpRequestRegister.class

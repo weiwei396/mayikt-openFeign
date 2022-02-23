@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin",
+      "type": "com.feign.propert.openFeignPropert"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin.name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin.timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin.timeout",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.feign.propert.openFeignPropert",
+      "name": "cloud.fegin.url",
+      "type": "java.lang.String"
+    }
+  ]
+}

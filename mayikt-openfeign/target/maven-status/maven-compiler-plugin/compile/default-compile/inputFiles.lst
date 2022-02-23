@@ -1,0 +1,14 @@
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\Processor\HttpRequestRegister.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\interceptor\requestInterceptor.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\annotation\HttpRequest.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\Processor\HttpRequestProxy.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\http\httpUtils.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\http\Params.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\http\OKHttpUtil.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\config\openFeignConfigure.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\Processor\BeanPostProcess.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\annotation\HttpRequestClient.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\annotation\EnabledHttpRequest.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\propert\openFeignPropert.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\Processor\HttpRequestFactoryBean.java
+D:\GithubForIn\mayikt-cloud-v1\mayikt-openfeign\src\main\java\com\feign\Processor\BeanDefinitionRegister.java
